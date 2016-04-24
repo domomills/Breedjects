@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Breedjects</string>
+    <string name="fragment_add_pokemon_title">Add Pokemon</string>
+</resources>
