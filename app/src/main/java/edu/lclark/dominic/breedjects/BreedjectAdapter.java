@@ -32,6 +32,8 @@ public class BreedjectAdapter extends RecyclerView.Adapter<BreedjectAdapter.Bree
     private ArrayList<Pokemon> mPokemon;
     private Context mParent;
 
+    //hi github
+
     public BreedjectAdapter(Context mParent) {
         this.mParent = mParent;
         mPokemon = new ArrayList<>();
